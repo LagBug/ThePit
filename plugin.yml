@@ -1,0 +1,13 @@
+name: ThePit
+version: 0.0.3
+main: com.LagBug.ThePit.Main
+description: An advanced and free ThePit plugin.
+commands:
+  pit:
+    description: Main command for the plugin.
+  items:
+    description: Opens the items gui.
+  perks:
+    description: Opens the perks gui.
+  upgrades:
+    description: Opens the upgrades gui.
